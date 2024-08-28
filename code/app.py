@@ -6,7 +6,7 @@ import spacy
 model = joblib.load('/Users/ritesh/fake_news/gradient_boost.pkl')
 
 # Load the spaCy model
-nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("/opt/anaconda3/lib/python3.11/site-packages/en_core_web_lg/en_core_web_lg-3.7.1")
 
 def preprocess_text(text):
     doc = nlp(text)
