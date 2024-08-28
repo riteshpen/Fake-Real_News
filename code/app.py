@@ -3,7 +3,7 @@ import joblib
 import spacy
 
 # Load the model
-model = joblib.load('Fake-Real_News/code/grad_boost.pkl')
+model = joblib.load('code/grad_boost.pkl')
 
 # Load the spaCy model
 nlp = spacy.load("/opt/anaconda3/lib/python3.11/site-packages/en_core_web_lg/en_core_web_lg-3.7.1")
