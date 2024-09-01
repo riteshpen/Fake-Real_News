@@ -29,7 +29,4 @@ Create a new Pull Request.
 - VSCode
 - Kaggle
 - Streamlit Cloud
-
-## Folder Layout
-- code
-  - 
+   
