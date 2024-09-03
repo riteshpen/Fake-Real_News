@@ -10,6 +10,9 @@ to convert the preprocessed text into vector format. I then trained using a Grad
 
 **[Website](https://fake-realnews.streamlit.app/)**
 
+![My Movie](https://github.com/user-attachments/assets/7e659148-bb91-4582-9ca3-0b9777d100da)
+
+
 ## Contributions
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
