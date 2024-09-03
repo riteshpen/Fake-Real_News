@@ -21,8 +21,8 @@ def preprocess_text(text):
 # Load pre-trained model and scaler
 @st.cache_resource
 def load_model_and_scaler():
-    model = joblib.load('gradient_boosting_model.pkl')
-    scaler = joblib.load('scaler.pkl')
+    model = joblib.load('code/saved_models/gradient_boosting_model.pkl')
+    scaler = joblib.load('code/saved_models/scaler.pkl')
     return model, scaler
 
 model, scaler = load_model_and_scaler()
