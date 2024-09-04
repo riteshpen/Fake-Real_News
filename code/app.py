@@ -8,7 +8,7 @@ from collections import Counter
 # Load the spaCy model
 @st.cache_resource
 def load_spacy_model():
-    return spacy.load("/opt/anaconda3/lib/python3.11/site-packages/en_core_web_lg/en_core_web_lg-3.7.1")
+    return spacy.load("en_core_web_lg")
 
 nlp = load_spacy_model()
 
