@@ -8,7 +8,7 @@ to convert the preprocessed text into vector format. I then trained using a Grad
 
 <img width="435" alt="Screenshot 2024-09-01 at 5 04 32 PM" src="https://github.com/user-attachments/assets/98946498-7524-4122-a8f5-9e4d81568418">
 
-**[Website](https://fake-realnews.streamlit.app/)**
+**[WEBSITE](https://fake-realnews.streamlit.app/)**
 
 ![](https://github.com/user-attachments/assets/7e659148-bb91-4582-9ca3-0b9777d100da)
 
